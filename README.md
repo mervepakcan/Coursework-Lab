@@ -58,7 +58,7 @@ This repository contains lab reports for FDSA (2024/2025), covering key topics i
 
   - Conduct one-way & two-way ANOVA on student scores.
 
-** 🔬 Methods Used **
+**🔬 Methods Used**
 
 Descriptive Statistics, Correlation Analysis, Histogram Visualization, Scatter Plot Analysis, Linear Regression, Box Plot Analysis, Bootstrap Resampling, Chi-Square Goodness-of-Fit Test, Kolmogorov-Smirnov Test, Heatmap Visualization, K-Means Clustering, Principal Component Analysis (PCA), Logistic Regression, One-Way ANOVA, Two-Way ANOVA.
 
