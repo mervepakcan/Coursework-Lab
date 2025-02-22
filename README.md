@@ -48,7 +48,7 @@ Fit linear regression models for student scores, real estate, and advertising da
 
 Apply K-Means clustering and PCA to MNIST.
 
-Dataset link: Download Here
+mnist_train dataset link: https://drive.google.com/file/d/1o27YR3Kory-BLby2pxyUuV26HiSY2JXb/view?usp=sharing
 
 - **Lab 9:** Logistic Regression for Rain Prediction
 
